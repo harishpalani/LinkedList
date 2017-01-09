@@ -9,7 +9,7 @@ class Student {
     
     public:
         Student(int);
-        int getId();
+        int getID();
         
     protected:
         int id;

@@ -2,10 +2,10 @@
 
 using namespace std;
 
-Student::Student(int nId) {
-    id = nId;
+Student::Student(int _id) {
+    id = _id;
 }
 
-int Student::getId() {
+int Student::getID() {
     return id;
 }
