@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// Constructor
 Student::Student(int _id) {
     id = _id;
 }

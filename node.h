@@ -13,8 +13,8 @@ using namespace std;
 class Node {
     
     public:
-        Node(Student*);
-        ~Node();
+        Node(Student*); // Constructor
+        ~Node(); // Deconstructor
         
         Node* getNext();
         Student* getStudent();

@@ -8,11 +8,11 @@ using namespace std;
  *
  * Variables required: Student*, Node*
  * Functions required:
- *  Node* getNext() //get next Node pointer (10 points)
- *  Student* getStudent() //get student pointer (10 points)
- *  void setNext(Node*) //set the next pointer to the corresponding node pointer (10 points)
- *  Node(Student*) //constructor (10 points)
- *  ~Node() //deconstructor (10 points)
+ *  Node* getNext() // get next Node pointer (10 points)
+ *  Student* getStudent() // get student pointer (10 points)
+ *  void setNext(Node*) // set the next pointer to the corresponding node pointer (10 points)
+ *  Node(Student*) // constructor (10 points)
+ *  ~Node() // deconstructor (10 points)
  * 
  * @author Harish Palani
  * @version 1.0

@@ -8,7 +8,7 @@ using namespace std;
 class Student {
     
     public:
-        Student(int);
+        Student(int); // Constructor
         int getID();
         
     protected:
